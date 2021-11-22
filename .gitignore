@@ -1,0 +1,8 @@
+*/.sbrew/user.yaml
+*/.sbrew.tmp
+*/.sbrew.bak
+./sbrew
+*/.cache
+.cache
+*/.vs
+.vs
